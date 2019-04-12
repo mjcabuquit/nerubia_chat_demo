@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212591560756",
+    "firebase_url": "https://ir-chat-cc221.firebaseio.com",
+    "project_id": "ir-chat-cc221",
+    "storage_bucket": "ir-chat-cc221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212591560756:android:6020a3cf40542486",
+        "android_client_info": {
+          "package_name": "com.example.nerubiachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212591560756-42cnnhi37cc0beb9tbnthlt85blt0ttb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGKKJS3D6RI4ztjV3towgc_jYHeNtZOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212591560756-42cnnhi37cc0beb9tbnthlt85blt0ttb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
